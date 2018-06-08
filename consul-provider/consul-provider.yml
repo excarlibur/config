@@ -7,7 +7,7 @@ spring:
       port: 8500
 
 server:
-  port: 2002
+  port: 2001
 
 #eureka:
 #  client:
