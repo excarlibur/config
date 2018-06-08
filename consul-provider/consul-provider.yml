@@ -15,9 +15,3 @@ server:
 #      defaultZone: http://localhost:1001/eureka/
 
 from: 2222
-
-spring:
-  cloud:
-    consul:
-      host: localhost
-      port: 8500
